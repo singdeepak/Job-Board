@@ -16,6 +16,7 @@ A Laravel-based job portal with admin panel and public job listings.
 
 ### 2. Job Management (Admin Only)
 - Admin can acces their dashboard by appending /admin
+- .sql file added in priject root
 - Admin can **Create, Read, Update, Delete** jobs.
 - Fields in jobs table:
   - `title` (required)
