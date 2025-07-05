@@ -15,7 +15,7 @@ A Laravel-based job portal with admin panel and public job listings.
   - **Password:** `password`
 
 ### 2. Job Management (Admin Only)
-
+- Admin can acces their dashboard by appending /admin
 - Admin can **Create, Read, Update, Delete** jobs.
 - Fields in jobs table:
   - `title` (required)
